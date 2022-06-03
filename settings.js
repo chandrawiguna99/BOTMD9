@@ -33,7 +33,7 @@ global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" //
 global.owner = ["6285861009691","6281211423262","6285342106390"] //ganti agar fitur owner bisa di gunakan
 global.packname = 'Punya' //sticker wm ubah
 global.author = 'Chandra' //sticker wm ganti nama kalian
-global.sessionName = 'session2'
+global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='

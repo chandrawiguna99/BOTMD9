@@ -3,12 +3,12 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	alfa: 'https://api-alphabot.herokuapp.com',
+	alfa: 'https://api.zeeoneofc.xyz',
 }
 
 // Free apikey
 global.APIKeys = {
-	'https://api-alphabot.herokuapp.com': 'Alphabot',
+	'https://api.zeeoneofc.xyz': '49tEH5me',
 }
 
 // setting 
@@ -20,8 +20,8 @@ global.available = false //status online (online)
 // Other
 global.botname = "BOT PEDIA" //namabot kalian
 global.ownername= "ChandraPedia×፝֟͜×" //nama kalian
-global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
+global.myweb ="http://chandrapedia.eu.org" //bebas asal jan hapus
+global.youtube = "https://youtube.com/" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "chndrwgnn@gmail.com" //bebas
 global.region = "Indonesia" //bebas
@@ -31,8 +31,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6285861009691","6281211423262","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = 'BOT PEDIAོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ChandraPedia' //sticker wm ganti nama kalian
+global.packname = 'Punya' //sticker wm ubah
+global.author = 'Chandra' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
